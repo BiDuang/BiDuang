@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BiDuang
-- 👀 I’m interested in write something interesting.
+- 👀 I’m interested in writing something interesting.
 - 📫 How to reach me: [Email](mailto://me@biduang.cn)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@54584642-d17f-456f-9341-29215427f16b/217a063d-bdcc-472c-8371-3f523122a58a.png" /></a>
