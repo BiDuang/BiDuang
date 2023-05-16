@@ -2337,7 +2337,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RQNG/WouoUI</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">模仿稚晖君MonoUI风格的超丝滑菜单，使用EC11旋转编码器控制。</div>
@@ -2431,7 +2431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>easyMirais/node-red-easyMirai</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">使用图形编程开发Mirai机器人！</div>
@@ -2755,7 +2755,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2023, 10:01:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 May 2023, 10:33:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
