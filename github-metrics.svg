@@ -2298,7 +2298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stm32-rs/stm32f1xx-hal</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust embedded-hal HAL impl for the STM32F1 family based on japarics stm32f103xx-hal</div>
@@ -2405,7 +2405,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RQNG/WouoUI</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">模仿稚晖君MonoUI风格的超丝滑菜单，使用EC11旋转编码器控制。</div>
@@ -2770,7 +2770,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 May 2023, 09:59:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 May 2023, 10:30:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
