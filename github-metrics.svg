@@ -2299,7 +2299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AvaloniaCommunity/awesome-avalonia</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of interesting libraries and tools for Avalonia project.</div>
@@ -2340,7 +2340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WankkoRee/eaio</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。</div>
@@ -2393,7 +2393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>easyMirais/easyMirai-webSocket</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">快速实现基于webSocket协议的Mirai机器人模版</div>
@@ -2764,7 +2764,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2023, 23:05:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 26 May 2023, 00:07:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
