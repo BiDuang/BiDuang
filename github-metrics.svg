@@ -2307,7 +2307,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LorisYounger/VPet</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序</div>
@@ -2784,7 +2784,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2023, 11:06:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Aug 2023, 12:07:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
