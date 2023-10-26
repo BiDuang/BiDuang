@@ -2320,7 +2320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AvaloniaCommunity/MessageBox.Avalonia</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Messagebox for AvaloniaUI</div>
@@ -2373,7 +2373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IdeaLeap/Slidefly</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2421,7 +2421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openocd-org/openocd</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official OpenOCD Read-Only Mirror (no pull requests)</div>
@@ -2798,7 +2798,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Oct 2023, 12:07:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Oct 2023, 13:05:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
