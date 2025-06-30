@@ -2301,7 +2301,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Windoooors/Lapis</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A QQ bot program written in C#, specializing in maimai DX related functions and compatible with go-cqhttp frameworks.</div>
@@ -2778,7 +2778,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jun 2025, 22:10:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jun 2025, 23:11:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
